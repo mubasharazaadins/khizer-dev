@@ -42,7 +42,7 @@ export default function HeroSection() {
             >
               Hello, Its <br />
               <span className="bg-gradient-to-r from-black via-neutral-700 to-neutral-400  dark:bg-gradient-to-r from-neutral-500 via-neutral-400 to-neutral-300 bg-clip-text text-transparent">
-                Saadat Ali
+                khizer Abbas
               </span>
             </motion.h1>
 
